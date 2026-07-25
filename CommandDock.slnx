@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CommandDock.Application/CommandDock.Application.csproj" />
+    <Project Path="src/CommandDock.Domain/CommandDock.Domain.csproj" />
+    <Project Path="src/CommandDock.Infrastructure/CommandDock.Infrastructure.csproj" />
+    <Project Path="src/CommandDock/CommandDock.csproj" />
+  </Folder>
+</Solution>
