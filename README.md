@@ -48,21 +48,6 @@ If you're a developer or ops person on Windows, you probably have a mental list 
 
 ---
 
-## Screenshots
-
-<div align="center">
-
-> _Add screenshots into a `docs/` folder and reference them here:_
->
-> ```markdown
-> ![Main window](docs/screenshots/main.png)
-> ![Command editor](docs/screenshots/editor.png)
-> ```
-
-</div>
-
----
-
 ## Features
 
 - **Named command library.** Each entry has a name, optional emoji icon (defaults to 🔷), an optional description, and the PowerShell script itself.
